@@ -4,7 +4,7 @@ sap.ui.define(
     ],
     function(BaseController) {
       "use strict";
-      // "Test change"
+      // "Test change fixed code"
 
   
       return BaseController.extend("test.com.customnavigation.controller.App", {
