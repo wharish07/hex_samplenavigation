@@ -1,0 +1,7 @@
+<mvc:View controllerName="test.com.customnavigation.controller.SecondPage"
+    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+    xmlns="sap.m">
+    <Page id="page" title="Detail Page to Main Page">
+       <Button text="Main Page" press="onNavToMain"></Button>
+    </Page>
+</mvc:View>
